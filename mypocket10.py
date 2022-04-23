@@ -425,5 +425,10 @@ if nzdif(datetime.strptime('2022-11-30',"%Y-%m-%d"))>= 0:
     
 my_window.mainloop()
 #pyinstaller --onefile --windowed --icon=icons8_spring.ico --hidden-import "babel.numbers" mypocket10.py
+'''
+commit fe2a77de19a4330f900f5330b0d0cfb84473c563 (HEAD -> master)
+Author: Iancu Ioan <iancuioan897@yahoo.ro>
+Date:   Sat Apr 23 22:41:29 2022 +0300
 
+    added mypocket10.py'''
 
